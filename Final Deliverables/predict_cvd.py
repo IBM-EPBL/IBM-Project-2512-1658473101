@@ -11,7 +11,7 @@ class PredictCVD:
             'left_bundle_branch_block.html',
             'normal.html',
             'premature_atrial_contraction.html',
-            'premature_ventricular_contractions.html',
+            'premature_ventricular_contraction.html',
             'right_bundle_branch_block.html',
             'ventricular_fibrillation.html'
         ]
